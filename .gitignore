@@ -1,0 +1,8 @@
+# Project exclude paths
+.idea
+/.gradle/
+/modules/number-utils/.gradle/
+/modules/number-utils/build/
+/modules/number-utils/build/classes/java/main/
+/modules/number-utils/build/classes/java/test/
+/modules/string-utils/.gradle/

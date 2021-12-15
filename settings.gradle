@@ -1,0 +1,9 @@
+rootProject.name = 'multirepo-app'
+
+includeBuild 'modules/number-utils', {
+    name = 'utils.number'
+}
+
+includeBuild 'modules/string-utils', {
+    name = 'utils.string'
+}
